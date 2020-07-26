@@ -10,5 +10,10 @@
   "keywords": [
     "sample",
     "prototype"
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/zombiekenji/package_public.git",
+    "type": "git",
+    "revision": "ce94dea76392b47b3c229f4e2a537bd9b100e747"
+  }
 }
