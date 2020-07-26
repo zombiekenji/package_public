@@ -1,6 +1,6 @@
 {
-  "name": "com.sample.prototype",
-  "displayName": "Sample",
+  "name": "com.sample.pulic",
+  "displayName": "SamplePublic",
   "version": "0.1.0",
   "unity": "2020.1",
   "description": "sample.",
@@ -10,10 +10,5 @@
   "keywords": [
     "sample",
     "prototype"
-  ],
-  "repository": {
-    "url": "https://github.com/zombiekenji/package_public.git",
-    "type": "git",
-    "revision": "732186398216c11a6bbb55aa94f782783ee3207d"
-  }
+  ]
 }
