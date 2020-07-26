@@ -1,0 +1,14 @@
+{
+  "name": "com.sample.prototype",
+  "displayName": "Sample",
+  "version": "0.1.0",
+  "unity": "2020.1",
+  "description": "sample.",
+  "author": {
+    "name": "Sample"
+  },
+  "keywords": [
+    "sample",
+    "prototype"
+  ]
+}
